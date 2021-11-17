@@ -1,4 +1,3 @@
-dre4m_eater
 jarjar_bot
 GryvousBot
 Obiwan-Kenobi-Bot

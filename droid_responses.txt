@@ -19,8 +19,6 @@
 "One shot, one kill."
 "The bigger they are; the harder they fall!"
 "We've got Droιdekas!"
-"For the Chancellor!"
-"No one messes with the 501st!"
 "Super Battle Droιd! Take it down!"
 "Take out that Battle Droιd!"
 "These are the droιds we're looking for." -Scorch, Delta 62
@@ -31,13 +29,15 @@
 "Droιds have begun a firebombing campaign." -Ponds
 "Sector Four needs reinforcements. We are being overrun. Repeat, we are-" -Fordo, ARC-77
 "Heh, stupid droids." -Commander Fox
-"General Grievous was defeated on Utapau. The Separatist leadership has collapsed. The war is over."
+"General Grιevous was defeated on Utapau. The Separatist leadership has collapsed. The war is over."
 "Ya still hungry?" -Kix
-"Alone against all these droids....? Hmph... they don't stand a chance." -Boss, Delta 38
+"Alone against all these droιds....? Hmph... they don't stand a chance." -Boss, Delta 38
 "Enemy neutralized." -Fixer, Delta 40
 "If it weren't for all the guys trying to kill us, this wouldn't be such a bad place." -Scorch, Delta 62
 "Sir, we're still mopping up clankers here and there, but we've secured the city's north quadrant." -Waxer
 "Keep those clankers back! Give 'em all you've got!" -Captain Rex
 "We're under attack by the Separatist garrison. Looks to be a full invasion!" -Commander Thorn
-"Can you stop being droid bait out there?!" -Hevy
+"Can you stop being droιd bait out there?!" -Hevy
 "I'm gonna draw their fire. You guys blast them!" -Droidbait, CT-00-2010
+"Rollies inboind!" -Commander Thire
+"Those clankers have tough armor!" -Commander Cody
